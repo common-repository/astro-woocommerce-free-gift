@@ -1,0 +1,40 @@
+/** CART PAGE **/
+.shop_table tr.cart_item_gift td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #ededed;
+}
+
+.shop_table tr.cart_item_gift td img {
+  max-width: 40px;
+}
+
+.shop_table tr.cart_item_gift td.product-remove {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.shop_table tr.cart_item_gift dl {
+  margin: 0;
+}
+
+.shop_table tr.cart_item_gift dt, .shop_table tr.cart_item_gift dd {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.single-product-gifts {
+  list-style: none;
+  margin-left: 0;
+}
+
+.single-product-gifts li {
+  display: inline-block;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.single-product-gifts li img {
+  width: 80px;
+  margin: auto;
+}

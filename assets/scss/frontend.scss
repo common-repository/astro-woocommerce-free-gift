@@ -1,0 +1,43 @@
+/** CART PAGE **/
+
+.shop_table {
+  tr.cart_item_gift {
+    td {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      background: #ededed;
+
+      img {
+        max-width: 40px;
+      }
+      &.product-remove {
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+    }
+    dl {
+      margin: 0;
+    }
+    dt, dd {
+      display: inline-block;
+      margin-bottom: 0;
+    }
+  }
+}
+.single-product-gifts-wrapper {
+
+}
+.single-product-gifts {
+  list-style: none;
+  margin-left: 0;
+  li {
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    img {
+      width: 80px;
+      margin: auto;
+    }
+
+  }
+}

@@ -1,0 +1,69 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-11 17:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: astro-woocommerce-free-gift.php:75
+msgid ""
+"Astro WooCommerce Free Gift is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: astro-woocommerce-free-gift.php:121
+msgid "Gift product items"
+msgstr ""
+
+#: astro-woocommerce-free-gift.php:122
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: astro-woocommerce-free-gift.php:134
+msgid "This lets you choose which products are part of this group."
+msgstr ""
+
+#: astro-woocommerce-free-gift.php:154
+msgid "Type"
+msgstr ""
+
+#: astro-woocommerce-free-gift.php:154
+msgid "Free gift"
+msgstr ""
+
+#: astro-woocommerce-free-gift.php:264
+#, php-format
+msgid "%d Promotion gift"
+msgid_plural "%d Promotion gifts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the plugin
+msgid "Astro WooCommerce Free Gift"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin allows you to create a list of free Gift for any product item"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://astrotemplates.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "AstroTemplates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/astrotemplates"
+msgstr ""
